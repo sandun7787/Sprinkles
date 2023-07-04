@@ -1,0 +1,2 @@
+rootProject.name = "Sprinkles"
+include ':app'
